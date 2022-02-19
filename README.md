@@ -6,7 +6,7 @@
 
 ### *• O que foi utilizado para a resolução do desafio?*
 
-Todas as questões foram resolvidas com o uso da linguagem Python e suas funções built-in
+-- Todas as questões foram resolvidas com o uso da linguagem Python e suas funções built-in
 
 ### *• Dependências (Python packages)*
 
